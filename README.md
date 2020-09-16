@@ -25,7 +25,7 @@ database.
 
 
 
---Remaining optional tasks
+**Remaining optional tasks.**
 
 Screen 3 - Playlist details screen
 If a user taps on a playlist, a user should see a new screen with playlist details and all videos in

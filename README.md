@@ -23,6 +23,8 @@ All fetched info from the Youtubes'API (playlists, videos etc) should be cached 
 database.
 
 
+
+
 --Remaining optional tasks
 
 Screen 3 - Playlist details screen

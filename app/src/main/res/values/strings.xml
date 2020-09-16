@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">YoutubeSampleApp</string>
+    <string name="client_id" translatable="false">664409257634-gjsrjnhs174cu56ij3vg56htcjoc9cnp.apps.googleusercontent.com</string>
+    <string name="client_secret" translatable="false">imvWzQOveZ-BehjuybIBHOHe</string>
+    <string name="api_key" translatable="false">AIzaSyA3jm4hz_yRefU9GAeDShFeKUyJFXcyzLw</string>
+
+
+    <string name="sad_face">sad face</string>
+    <string name="empty_state_text">No playlist found. \n Please create public playlist in your account.</string>
+    <string name="error_state_text">Error retrieving youtube info.</string>
+</resources>

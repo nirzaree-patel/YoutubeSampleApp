@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "664409257634",
+    "firebase_url": "https://bell--demo.firebaseio.com",
+    "project_id": "bell-youtube-demo",
+    "storage_bucket": "bell-youtube-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664409257634:android:3d28c4662e15515a3249fb",
+        "android_client_info": {
+          "package_name": "com.app.youtubemusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664409257634-ia0napuvh0bj4028mhba3v969gu9283a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.youtubemusic",
+            "certificate_hash": "6489ea25f0b2c994bbc325f3ef2964571ea0c19c"
+          }
+        },
+        {
+          "client_id": "664409257634-gjsrjnhs174cu56ij3vg56htcjoc9cnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3jm4hz_yRefU9GAeDShFeKUyJFXcyzLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664409257634-gjsrjnhs174cu56ij3vg56htcjoc9cnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
